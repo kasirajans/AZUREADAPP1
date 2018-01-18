@@ -68,5 +68,5 @@ We would like to acknowledge the folks who own/contribute to the following proje
 
 ## About The Code
 
-Code hosted on GitHub under MIT license
+
 # AZUREADAPP1
